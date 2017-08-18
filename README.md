@@ -1,5 +1,5 @@
-# IoT-Alarm-System
-IoT Alarm System connected to IBM Bluemix Cloud which sounds an alarm when the Light Intensity/Temperature exceeds a certain threshold
+# IoT-Fire-Alarm-System
+IoT Fire Alarm System connected to IBM Bluemix Cloud which sounds an alarm when the Light Intensity/Temperature exceeds a certain threshold
 
 # Components used
 1. TI's MSP432P401R Launchpad Development Kit
